@@ -69,7 +69,7 @@ class _MyAuthPageState extends State<AuthPage> {
                       //   ],
                       // ),
                       Text(
-                        'We will not change the world,\nWe will rewrite the code.',
+                        'We will not change the world, \nWe will rewrite the code.',
                         style: GoogleFonts.poppins(
                           color: Colors.white,
                           fontSize: 38,
