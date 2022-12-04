@@ -57,69 +57,6 @@ class _MyAuthPageState extends State<AuthPage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                // Row(
-                //   crossAxisAlignment: CrossAxisAlignment.center,
-                //   children: [
-                //     const Icon(
-                //       FontAwesomeIcons.squarespace,
-                //       size: 25.0,
-                //       color: Colors.white,
-                //     ),
-                //     const SizedBox(
-                //       width: 8,
-                //     ),
-                //     Text(
-                //       'S F E R A',
-                //       style: GoogleFonts.poppins(
-                //           color: Colors.white, fontSize: 20),
-                //     ),
-                //   ],
-                // ),
-                // Container(
-                //   padding: const EdgeInsets.symmetric(
-                //       horizontal: 4.0, vertical: 6.0),
-                //   decoration: BoxDecoration(
-                //     boxShadow: const [
-                //       BoxShadow(
-                //           offset: Offset(3, 7),
-                //           blurRadius: 5,
-                //           color: Color.fromARGB(255, 46, 46, 46)),
-                //     ],
-                //     color: Colors.black87,
-                //     borderRadius: BorderRadius.circular(30),
-                //   ),
-                //   child: Row(
-                //     mainAxisSize: MainAxisSize.min,
-                //     children: [
-                //       const CircleAvatar(
-                //         backgroundColor: Color.fromARGB(255, 46, 46, 46),
-                //         maxRadius: 15,
-                //         child: Icon(
-                //           Icons.play_arrow,
-                //           color: Colors.white,
-                //           size: 15.0,
-                //         ),
-                //       ),
-                //       const SizedBox(
-                //         width: 8,
-                //       ),
-                //       Text(
-                //         'Watch Demo',
-                //         style: GoogleFonts.poppins(
-                //           color: Colors.white,
-                //           fontSize: 12,
-                //           fontWeight: FontWeight.w600,
-                //         ),
-                //       ),
-                //       const SizedBox(
-                //         width: 8,
-                //       ),
-                //     ],
-                //   ),
-                // ),
-                // Row(
-                //   children: bottomNavTiles.map((e) => Text(e)).toList(),
-                // )
               ],
             ),
           )
