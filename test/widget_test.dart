@@ -7,6 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:sfera_test_task/forms/registration_form.dart';
 
 import 'package:sfera_test_task/main.dart';
 
